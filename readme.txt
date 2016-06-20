@@ -1,0 +1,1 @@
+http://www.techscore.com/tech/DesignPattern/Iterator/Iterator1.html/
